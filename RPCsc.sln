@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCsc", "RPCsc\RPCsc.csproj", "{9199B966-2568-4487-A2EA-4AEA0FCCB112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9199B966-2568-4487-A2EA-4AEA0FCCB112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9199B966-2568-4487-A2EA-4AEA0FCCB112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9199B966-2568-4487-A2EA-4AEA0FCCB112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9199B966-2568-4487-A2EA-4AEA0FCCB112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {570D50A9-F39C-4774-A97C-2030F0DA895B}
+	EndGlobalSection
+EndGlobal
